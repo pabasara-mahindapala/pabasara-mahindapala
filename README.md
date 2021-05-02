@@ -9,10 +9,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=pabasara-mahindapala&show_icons=true&theme=buefy&count_private=true" alt="Github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabasara-mahindapala&layout=compact&theme=buefy" alt="Most used languages" height="165">
 </p>
 
-<p>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f10dbc70-9c01-47bd-9b9a-a42692cb289f" data-share-badge-host="https://www.credly.com"></div>
-</p>
-
 📫 Reach me via pabasaramahindapala@gmail.com
 
 <!---
