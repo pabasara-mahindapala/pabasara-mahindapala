@@ -4,7 +4,7 @@
 <p align="left">  
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   --->
-
+![Profile views](https://gpvc.arturio.dev/pabasara-mahindapala)
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=pabasara-mahindapala&show_icons=true&theme=buefy&count_private=true" alt="Github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabasara-mahindapala&layout=compact&theme=buefy" alt="Most used languages" height="165">
 </p>
