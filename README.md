@@ -1,4 +1,6 @@
-# 👋 Hi, I’m Pabasara Mahindapala  [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pabasara-mahindapala/)
+# 👋 Hi, I’m Pabasara Mahindapala 
+
+### Find me on:  [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pabasara-mahindapala/)
 <!---
 ## 🚀 I’m skilled in
 <p align="left">  
