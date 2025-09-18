@@ -10,7 +10,7 @@
   --->
 
 <!--img src="https://github-readme-stats.vercel.app/api?username=pabasara-mahindapala&show_icons=true&theme=buefy&count_private=true" alt="Github stats" width="420"/>&nbsp;-->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabasara-mahindapala&layout=compact&theme=buefy" alt="Most used languages" height="165">
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabasara-mahindapala&layout=compact&theme=buefy" alt="Most used languages" height="165">-->
 
 📫 Reach me via pabasaramahindapala@gmail.com
 
