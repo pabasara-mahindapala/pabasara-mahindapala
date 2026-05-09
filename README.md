@@ -2,7 +2,7 @@
 
   Senior Software Engineer at [WSO2](https://wso2.com/about/team/pabasara-mahindapala/), based in Colombo, Sri Lanka.                                                                                                                     
    
-  I help organisations implement Identity and Access Management and enterprise integration solutions. On the side I build open-source projects and write about what I learn.                                                              
+  I help organisations implement Identity and Access Management and Enterprise Integration solutions. On the side I build open-source projects and write about what I learn.                                                              
                                                                          
   **Writing about:** IAM & security · Angular & frontend engineering · .NET & software architecture · AI agents
 
